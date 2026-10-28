@@ -1,0 +1,8 @@
+{
+  "autodeskProduct": "Fusion360",
+  "type": "script",
+  "author": "Team",
+  "description": { "": "Animates the obstacle avoider driving through a room, avoiding obstacles with the real control logic" },
+  "supportedOS": "windows|mac",
+  "editEnabled": true
+}
