@@ -1,4 +1,4 @@
-# Obstacle Avoider – NexSync Design Challenge (UG2–UG4 Elimination Round)
+# Obstacle Avoider – NexSync Design Challenge
 
 A round, centre-axle obstacle-avoiding robot designed end to end: Fusion 360 chassis, electronics schematic, BOM, conceptual 3D PCB, firmware logic, simulation and integration.
 
